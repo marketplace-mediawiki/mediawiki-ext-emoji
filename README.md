@@ -1,8 +1,8 @@
-# Information / Информация
+# Information
 
 Добавление **emoji** в статью.
 
-## Install / Установка
+## Install
 
 1. Загрузите папки и файлы в директорию `extensions/MW_EXT_Emoji`.
 2. В самый низ файла `LocalSettings.php` добавьте строку:
@@ -11,12 +11,12 @@
 wfLoadExtension( 'MW_EXT_Emoji' );
 ```
 
-## Syntax / Синтаксис
+## Syntax
 
 ```html
 {{#emoji: [ID]|[SIZE]}}
 ```
 
-## Donations / Пожертвования
+## Donations
 
 - [Donation Form](https://donation-form.github.io/)
